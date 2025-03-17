@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vH4WrLeuydcjAIgVEBfJEXP1Tm5Y5CZafpoVOC/XpkQtqKm5gf1Fcgj1A1pIrHe6F7apQsT8rPR/oubP2C4C7w==",
+  "success": true,
+  "projectFilePath": "F:\\Cricket Management System\\Cricket_Management_System\\Cricket_Management_System\\Cricket_Management_System.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}

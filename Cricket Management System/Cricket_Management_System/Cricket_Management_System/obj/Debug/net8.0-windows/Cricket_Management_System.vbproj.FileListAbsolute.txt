@@ -1,0 +1,87 @@
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.exe
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.deps.json
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.runtimeconfig.json
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.dll
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.pdb
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form1.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.AssemblyInfo.vb
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.vbproj.CopyComplete
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.dll
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\refint\Cricket_Management_System.dll
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.pdb
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.genruntimeconfig.cache
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\ref\Cricket_Management_System.dll
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form2.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form3.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form4.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form5.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form6.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form7.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form8.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form9.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form10.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Resources.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form11.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form12.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form13.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form14.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form15.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form16.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form17.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form18.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form19.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form20.resources
+C:\Users\hp\source\repos\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form21.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.exe
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.deps.json
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.runtimeconfig.json
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.dll
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\Cricket_Management_System.pdb
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.vbproj.AssemblyReference.cache
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form1.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form11.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form12.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form13.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form14.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form15.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form16.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form17.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form18.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form19.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form2.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form20.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form21.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form3.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form4.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form5.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form6.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form7.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form8.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Form9.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.Resources.resources
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.vbproj.GenerateResource.cache
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.AssemblyInfoInputs.cache
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.AssemblyInfo.vb
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.vbproj.CoreCompileInputs.cache
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.vbproj.CopyComplete
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.dll
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\refint\Cricket_Management_System.dll
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.pdb
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\Cricket_Management_System.genruntimeconfig.cache
+F:\Cricket Management System\Cricket_Management_System\Cricket_Management_System\obj\Debug\net8.0-windows\ref\Cricket_Management_System.dll
