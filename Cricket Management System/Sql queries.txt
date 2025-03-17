@@ -1,0 +1,119 @@
+CREATE TABLE TEAM (
+    Team_id       VARCHAR (30) PRIMARY KEY,
+    Team_rank     NUMERIC (3),
+    Team_name     VARCHAR (20) NOT NULL,
+    country_name  VARCHAR (20),
+    no_of_wins    NUMERIC (3),
+    no_of_loses   NUMERIC (3),
+    no_of_draws   NUMERIC (3),
+    no_of_bowlers NUMERIC (2),
+    no_of_batsmen NUMERIC (2) 
+);
+
+CREATE TABLE Wicket_Keeper (
+    team_id VARCHAR (30),
+    wk_name VARCHAR (30) 
+);
+
+CREATE TABLE Umpire (
+    Umpire_id     VARCHAR (30) PRIMARY KEY,
+    Umpire_name   VARCHAR (30),
+    no_of_matches NUMERIC (4),
+    country       VARCHAR (20) 
+);
+
+CREATE TABLE Bowler (
+    player_id      VARCHAR (30)   PRIMARY KEY,
+    team_id        VARCHAR (30) References Team(Team_id),
+    no_of_matches  NUMERIC (3),
+    no_of_T20      NUMERIC (3),
+    no_of_odi      NUMERIC (3),
+    no_of_test     NUMERIC (3),
+    no_of_wickets  NUMERIC (2),
+    type_of_bowler VARCHAR (30),
+    economy        NUMERIC (3, 2) 
+);
+
+
+CREATE TABLE Batsman (
+    player_id       VARCHAR (20)   PRIMARY KEY,
+    team_id         VARCHAR (20)   REFERENCES TEAM (Team_id),
+    no_of_matches   NUMERIC (10),
+    no_of_t20       NUMERIC (10),
+    no_of_odi       NUMERIC (10),
+    no_of_test      NUMERIC (10),
+    no_of_runs      NUMERIC (20),
+    type_of_batsman VARCHAR (20),
+    average         NUMERIC (3, 2) 
+);
+
+
+CREATE TABLE Matches (
+    match_id   VARCHAR (20) PRIMARY KEY,
+    match_date DATE,
+    match_time TIME,
+    team1_name VARCHAR (30),
+    team2_name VARCHAR (30),
+    loser      VARCHAR (30),
+    winner     VARCHAR (30),
+    stadium    VARCHAR (30),
+    umpire     VARCHAR (30) REFERENCES Umpire (Umpire_id) 
+);
+
+CREATE TABLE Coach (
+    coach_id   VARCHAR (30) PRIMARY KEY,
+    team_id    VARCHAR (30) REFERENCES TEAM (Team_id),
+    coach_name VARCHAR (30) 
+);
+
+CREATE TABLE Plays (
+    team_id  VARCHAR (30) REFERENCES TEAM (Team_id),
+    match_id VARCHAR (20) REFERENCES Matches (match_id) 
+);
+
+CREATE TABLE Captain (
+    Captain_id         VARCHAR (30) PRIMARY KEY,
+    Captain_name       VARCHAR (30),
+    team_id            VARCHAR (30) REFERENCES TEAM (Team_id),
+    player_id          VARCHAR (30),
+    years_of_captaincy NUMERIC (2),
+    no_of_wins         NUMERIC (4) 
+);
+
+CREATE TABLE Umpired_By (
+    match_id  VARCHAR (30) REFERENCES Matches (match_id),
+    umpire_id VARCHAR (30) REFERENCES Umpire (Umpire_id) 
+);
+
+INSERT INTO TEAM VALUES('IND1221', 1, 'MEN IN BLUE','INDIA', 5, 1, 0, 6, 7);
+INSERT INTO TEAM VALUES('AUS2174', 4, 'KANGAROO','AUSTRAILA', 3, 3, 0, 5, 6);
+INSERT INTO TEAM VALUES('SA5412', 3, 'PROTEA','SOUTH AFRICA', 3, 2, 1, 8, 5);
+INSERT INTO TEAM VALUES ('NZ5687', 2, 'BLACK CAPS','NEW ZEALAND', 4, 2, 0, 6,
+7); 
+INSERT INTO TEAM VALUES('BAN9852', 5, 'TIGERS','BANGLADESH', 2, 4 , 0, 7, 7);
+
+
+INSERT INTO CAPTAIN VALUES('CAP11452', 'MS DHONI', 'IND1221','PLR44567', 
+4,56);
+INSERT INTO CAPTAIN VALUES('CAP21478', 'DALE STEYN', 'SA5412','PLR10235', 
+7,74);
+INSERT INTO CAPTAIN VALUES(‘CAP30214’,’MICHEAL CLARKE’,’AUS2174’, ’PLR
+74138’, 9,100);
+INSERT INTO CAPTAIN VALUES('CAP14789',TAMIMIQBAL','BAN9852','PLR89562',
+2,20);
+INSERT INTO CAPTAIN VALUES('CAP36957', 'ROSS TAYLOR', 'NZ5687','PLR957417', 
+5,85);
+
+
+INSERT INTO COACH VALUES('CH417', 'IND1221', 'RAVI SHASTRI');
+INSERT INTO COACH VALUES('CH140', 'AUS2174', 'JUSTIN LANGER');
+INSERT INTO COACH VALUES('CH223', 'SA5412', 'OTTIS GIBSON');
+INSERT INTO COACH VALUES('CH398', 'NZ5687', 'GARY STEAD');
+INSERT INTO COACH VALUES('CH748', 'BAN9852', 'RUSSEL DOMINGO');
+INSERT INTO COACH VALUES('CH596', 'IND1221', 'GARY KISTERN');
+
+CREATE TABLE Login (
+    Username VARCHAR (50),
+    Password VARCHAR (8) 
+);
+

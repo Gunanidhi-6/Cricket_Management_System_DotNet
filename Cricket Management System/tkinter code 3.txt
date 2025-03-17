@@ -1,0 +1,7 @@
+customtkinter.set_appearance_mode("dark")
+customtkinter.set_default_color_theme("dark-blue")
+cap = customtkinter.CTk()
+cap.geometry("500x350")
+cap.title("Home")
+label = customtkinter.CTkLabel(master=cap, text="Captain ID", font=("Roboto", 75))
+label.pack()

@@ -1,0 +1,39 @@
+Public Class Form1
+
+    Dim sqlitedb As String = "Data Source=C:\Users\hp\PycharmProject\CMS\venv\Sqlite_Script\Cricket_DB"
+    Dim sqliteconn As SQLite.SQLiteConnection
+    Dim sqlitecom As SQLite.SQLiteCommand
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        Dim Conn As SQLite.SQLiteConnection
+
+        Conn = New SQLite.SQLiteConnection("Data Source=C:\Users\hp\PycharmProject\CMS\venv\Sqlite_Script\Cricket_DB")
+
+        Conn.Open()
+        Conn.Close()
+
+    End Sub
+
+    Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
+
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+        Dim str As String = "Insert into Login(Username,Password) values(@Username,@Password)"
+        sqliteconn = New SQLite.SQLiteConnection(sqlitedb)
+        sqliteconn.Open()
+
+        sqlitecom = New SQLite.SQLiteCommand(str, sqliteconn)
+
+        sqlitecom.Parameters.AddWithValue("@Username", TextBox1.Text)
+        sqlitecom.Parameters.AddWithValue("@Password", TextBox2.Text)
+        MsgBox("Data Inserted Successfully")
+
+        sqlitecom.ExecuteNonQuery()
+        sqlitecom.Dispose()
+        sqliteconn.Close()
+
+    End Sub
+End Class
